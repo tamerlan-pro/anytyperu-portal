@@ -15,6 +15,5 @@
 * [⭐ Полезные публикации](poleznye-publikacii/README.md)
   * [📹 Anytype. Ваш собственный конструктор данныx](poleznye-publikacii/anytype.-vash-sobstvennyi-konstruktor-dannyx.md)
   * [🧰 Как импортировать свои данные из Notion в Anytype - пошаговая инструкция](poleznye-publikacii/kak-importirovat-svoi-dannye-iz-notion-v-anytype-poshagovaya-instrukciya.md)
-  * [🧰 Как импортировать свои данные из Notion в Anytype - пошаговая инструкция](poleznye-publikacii/kak-importirovat-svoi-dannye-iz-notion-v-anytype-poshagovaya-instrukciya.md)
 
-Cправочная информация
+<figure><img src="../.gitbook/assets/cover2.webp" alt=""><figcaption></figcaption></figure>
