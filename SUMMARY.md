@@ -6,6 +6,7 @@
   * [🌸 Выпущена версия Anytype Desktop 0.39.0 (Спойлер: Web Clipper уже здесь!)](novosti-anytype/vypushena-versiya-anytype-desktop-0.39.0-spoiler-web-clipper-uzhe-zdes.md)
   * [📱 Выпущена версия Anytype Android 0.28.12.](novosti-anytype/vypushena-versiya-anytype-android-0.28.12..md)
 * [👨‍💻 Блог AnyType](blog-anytype/README.md)
+  * [🚥 Ваши рабочие процессы на новом уровне](blog-anytype/vashi-rabochie-processy-na-novom-urovne.md)
   * [🎛️ Таблицы содержания и оглавление](blog-anytype/tablicy-soderzhaniya-i-oglavlenie.md)
   * [⚡ Ваш запрос — наша новая функция](blog-anytype/vash-zapros-nasha-novaya-funkciya.md)
   * [⚙️ Мы не просто сортируем скрепки…](blog-anytype/my-ne-prosto-sortiruem-skrepki....md)
