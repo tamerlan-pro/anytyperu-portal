@@ -1,6 +1,7 @@
 # Table of contents
 
 * [📡 Новости AnyType](README.md)
+  * [💌 Объявляем о нашем новом реферальном программном обеспечении!](readme/obyavlyaem-o-nashem-novom-referalnom-programmnom-obespechenii.md)
   * [🍎 Выпущена версия Anytype iOS 0.29.2!](novosti-anytype/vypushena-versiya-anytype-ios-0.29.2.md)
   * [📫 Anytype Android 0.29.33 выпущен](novosti-anytype/anytype-android-0.29.33-vypushen.md)
   * [🌸 Выпущена версия Anytype Desktop 0.39.0 (Спойлер: Web Clipper уже здесь!)](novosti-anytype/vypushena-versiya-anytype-desktop-0.39.0-spoiler-web-clipper-uzhe-zdes.md)
