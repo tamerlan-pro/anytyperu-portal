@@ -75,3 +75,6 @@ description: >-
 {% embed url="https://www.waxlog.com/?ref=blog.anytype.io" %}
 
 **Это все на данный момент — увидимся в феврале 👋!**
+
+**Первоисточник:**\
+[**https://blog.anytype.io/january-community-update/**](https://blog.anytype.io/january-community-update/)
