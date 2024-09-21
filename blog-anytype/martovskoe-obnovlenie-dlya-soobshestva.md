@@ -73,3 +73,7 @@ description: >-
 [https://morejoy-tigris.love/](https://morejoy-tigris.love/?ref=blog.anytype.io)
 
 ### **🌊 Всё от нас на данный момент - спасибо, как всегда, за вашу поддержку, и увидимся в следующем месяце!**
+
+**Первоисточник:**
+
+{% embed url="https://blog.anytype.io/march-community-update/" %}
