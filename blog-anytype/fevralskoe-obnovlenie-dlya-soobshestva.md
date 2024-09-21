@@ -63,3 +63,7 @@ description: >-
 [https://www.youtube.com/watch?v=m9lZfnRrM4Y](https://www.youtube.com/watch?v=m9lZfnRrM4Y\&ref=blog.anytype.io)
 
 ### **🌊 Всё от нас на данный момент — оставайтесь классными и увидимся через месяц!**
+
+**Первоисточник:**
+
+{% embed url="https://blog.anytype.io/february-community-update/" %}

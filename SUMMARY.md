@@ -1,12 +1,14 @@
 # Table of contents
 
 * [📡 Новости AnyType](README.md)
+  * [🗂️ Эксперимент сообщества: запуск клуба любителей Local-First](readme/eksperiment-soobshestva-zapusk-kluba-lyubitelei-local-first.md)
   * [💌 Объявляем о нашем новом реферальном программном обеспечении!](readme/obyavlyaem-o-nashem-novom-referalnom-programmnom-obespechenii.md)
   * [🍎 Выпущена версия Anytype iOS 0.29.2!](novosti-anytype/vypushena-versiya-anytype-ios-0.29.2.md)
   * [📫 Anytype Android 0.29.33 выпущен](novosti-anytype/anytype-android-0.29.33-vypushen.md)
   * [🌸 Выпущена версия Anytype Desktop 0.39.0 (Спойлер: Web Clipper уже здесь!)](novosti-anytype/vypushena-versiya-anytype-desktop-0.39.0-spoiler-web-clipper-uzhe-zdes.md)
   * [📱 Выпущена версия Anytype Android 0.28.12.](novosti-anytype/vypushena-versiya-anytype-android-0.28.12..md)
 * [👨‍💻 Блог AnyType](blog-anytype/README.md)
+  * [🌷 Мартовское обновление для сообщества](blog-anytype/martovskoe-obnovlenie-dlya-soobshestva.md)
   * [🛰️ Февральское обновление для сообщества](blog-anytype/fevralskoe-obnovlenie-dlya-soobshestva.md)
   * [💘 Очень Валентиновый Релиз](blog-anytype/ochen-valentinovyi-reliz.md)
   * [🌟 Январское обновление сообщества](blog-anytype/yanvarskoe-obnovlenie-soobshestva.md)
