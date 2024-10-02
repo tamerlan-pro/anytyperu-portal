@@ -8,6 +8,7 @@
   * [🌸 Выпущена версия Anytype Desktop 0.39.0 (Спойлер: Web Clipper уже здесь!)](novosti-anytype/vypushena-versiya-anytype-desktop-0.39.0-spoiler-web-clipper-uzhe-zdes.md)
   * [📱 Выпущена версия Anytype Android 0.28.12.](novosti-anytype/vypushena-versiya-anytype-android-0.28.12..md)
 * [👨‍💻 Блог AnyType](blog-anytype/README.md)
+  * [🔐 Право на владение данными: неотъемлемое и проверяемое](blog-anytype/pravo-na-vladenie-dannymi-neotemlemoe-i-proveryaemoe.md)
   * [🎯 2023 до 2024, от локального к социальному](blog-anytype/2023-do-2024-ot-lokalnogo-k-socialnomu.md)
   * [🏬 Обновление сообщества за октябрь](blog-anytype/obnovlenie-soobshestva-za-oktyabr.md)
   * [🍁 Сентябрьское обновление сообщества](blog-anytype/sentyabrskoe-obnovlenie-soobshestva.md)
