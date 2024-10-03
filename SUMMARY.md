@@ -1,7 +1,7 @@
 # Table of contents
 
 * [📡 Новости AnyType](README.md)
-  * [Выпущен хотфикс Anytype 0.42.3!](readme/vypushen-khotfiks-anytype-0.42.3.md)
+  * [📌 Выпущен хотфикс Anytype 0.42.3!](readme/vypushen-khotfiks-anytype-0.42.3.md)
   * [🗂️ Эксперимент сообщества: запуск клуба любителей Local-First](readme/eksperiment-soobshestva-zapusk-kluba-lyubitelei-local-first.md)
   * [💌 Объявляем о нашем новом реферальном программном обеспечении!](readme/obyavlyaem-o-nashem-novom-referalnom-programmnom-obespechenii.md)
   * [🍎 Выпущена версия Anytype iOS 0.29.2!](novosti-anytype/vypushena-versiya-anytype-ios-0.29.2.md)
