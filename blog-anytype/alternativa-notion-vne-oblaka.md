@@ -1,4 +1,4 @@
-# Альтернатива Notion вне облака
+# 📝 Альтернатива Notion вне облака
 
 {% embed url="https://blog.anytype.io/content/images/size/w2000/2024/02/a-31.png" %}
 
