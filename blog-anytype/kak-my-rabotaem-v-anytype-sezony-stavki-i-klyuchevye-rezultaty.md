@@ -4,7 +4,7 @@ description: >-
   ставок и ключевых результатов.
 ---
 
-# Как мы работаем в Anytype: Сезоны, Ставки и Ключевые Результаты
+# ♟️ Как мы работаем в Anytype: Сезоны, Ставки и Ключевые Результаты
 
 {% embed url="https://blog.anytype.io/content/images/size/w2000/2024/03/Innovation-process-at-Anytype.jpeg" %}
 

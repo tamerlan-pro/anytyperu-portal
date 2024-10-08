@@ -9,7 +9,7 @@
   * [🌸 Выпущена версия Anytype Desktop 0.39.0 (Спойлер: Web Clipper уже здесь!)](novosti-anytype/vypushena-versiya-anytype-desktop-0.39.0-spoiler-web-clipper-uzhe-zdes.md)
   * [📱 Выпущена версия Anytype Android 0.28.12.](novosti-anytype/vypushena-versiya-anytype-android-0.28.12..md)
 * [👨‍💻 Блог AnyType](blog-anytype/README.md)
-  * [Как мы работаем в Anytype: Сезоны, Ставки и Ключевые Результаты](blog-anytype/kak-my-rabotaem-v-anytype-sezony-stavki-i-klyuchevye-rezultaty.md)
+  * [♟️ Как мы работаем в Anytype: Сезоны, Ставки и Ключевые Результаты](blog-anytype/kak-my-rabotaem-v-anytype-sezony-stavki-i-klyuchevye-rezultaty.md)
   * [👾 Ищете альтернативу Evernote? Исследуйте Anytype](blog-anytype/ishete-alternativu-evernote-issleduite-anytype.md)
   * [🛷 Февральское обновление сообщества](blog-anytype/fevralskoe-obnovlenie-soobshestva.md)
   * [📝 Альтернатива Notion вне облака](blog-anytype/alternativa-notion-vne-oblaka.md)
