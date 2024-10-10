@@ -9,7 +9,7 @@
   * [🌸 Выпущена версия Anytype Desktop 0.39.0 (Спойлер: Web Clipper уже здесь!)](novosti-anytype/vypushena-versiya-anytype-desktop-0.39.0-spoiler-web-clipper-uzhe-zdes.md)
   * [📱 Выпущена версия Anytype Android 0.28.12.](novosti-anytype/vypushena-versiya-anytype-android-0.28.12..md)
 * [👨‍💻 Блог AnyType](blog-anytype/README.md)
-  * [Августовское обновление сообщества](blog-anytype/avgustovskoe-obnovlenie-soobshestva.md)
+  * [🌻 Августовское обновление сообщества](blog-anytype/avgustovskoe-obnovlenie-soobshestva.md)
   * [👩‍🏫 Апрельское обновление сообщества](<blog-anytype/aprelskoe-obnovlenie-soobshestva (1).md>)
   * [🖥️ Новая сетевая эра для Anytype](blog-anytype/novaya-setevaya-era-dlya-anytype.md)
   * [☁️ Интернет как наша Нервная Система: от Облака к Локальному-подходу](blog-anytype/internet-kak-nasha-nervnaya-sistema-ot-oblaka-k-lokalnomu-podkhodu.md)
